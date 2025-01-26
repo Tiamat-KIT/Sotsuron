@@ -1,3 +1,6 @@
 [submodule "LateX"]
 	path = LateX
 	url = https://github.com/Tiamat-KIT/ResearchLateX.git
+[submodule "Code"]
+	path = Code
+	url = https://github.com/Tiamat-KIT/ResearchProgram.git
